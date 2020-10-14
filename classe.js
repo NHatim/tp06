@@ -8,9 +8,7 @@ class Shape {
   }
 
   calcperimeter(){
-
     return this.sides*this.sideLength;
-
   }
 
 }
